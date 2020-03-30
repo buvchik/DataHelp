@@ -7,4 +7,6 @@ Idea описание:https://coderlessons.com/tutorials/java-tekhnologii/izuchi
 
 Интерестности Английского языка: https://www.youtube.com/user/Englishdomcom
 
+Запоминание слов Англ: https://w2mem.com/members/list/dictionary/
+
 Интересные ссылки для Android : https://apptractor.ru/develop/51-resurs-dlya-nachinayushhih-i-professionalnyih-android-razrabotchikov.html
