@@ -4,6 +4,7 @@
 Руководство по Spring: https://proselyte.net/tutorials/spring-tutorial-full-version/
 
 Паттерны : https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
+           https://refactoring.guru/ru/design-patterns/catalog
 
 Idea описание:https://coderlessons.com/tutorials/java-tekhnologii/izuchite-intellidzh-ideia/intellij-idea-glubokoe-pogruzhenie-v-redaktor
 
