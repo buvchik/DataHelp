@@ -1,5 +1,8 @@
 # DataHelp
 Интересные ссылки
+
+Android видео : https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS
+
 Про git : https://git-scm.com/book/ru/v2
 
 Интерактивное обучение git: https://githowto.com/ru
