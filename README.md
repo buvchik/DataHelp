@@ -11,6 +11,8 @@ Android видео : https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1
 
 Паттерны : https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
            https://refactoring.guru/ru/design-patterns/catalog
+           
+           https://refactoring.guru/ru/design-patterns/java
 
 Idea описание:https://coderlessons.com/tutorials/java-tekhnologii/izuchite-intellidzh-ideia/intellij-idea-glubokoe-pogruzhenie-v-redaktor
 
