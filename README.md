@@ -21,3 +21,5 @@ Idea описание:https://coderlessons.com/tutorials/java-tekhnologii/izuchi
 Запоминание слов Англ: https://w2mem.com/members/list/dictionary/
 
 Интересные ссылки для Android : https://apptractor.ru/develop/51-resurs-dlya-nachinayushhih-i-professionalnyih-android-razrabotchikov.html
+
+Задачи перед собеседованием: https://www.codewars.com/
