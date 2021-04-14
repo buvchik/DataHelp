@@ -4,6 +4,9 @@
 Android видео : https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS
 
 Про git : https://git-scm.com/book/ru/v2
+/zipball/master/ - делает zip из репозитория
+/upload/master/ - загружает файл
+
 
 Интерактивное обучение git: https://githowto.com/ru
 
@@ -23,3 +26,4 @@ Idea описание:https://coderlessons.com/tutorials/java-tekhnologii/izuchi
 Интересные ссылки для Android : https://apptractor.ru/develop/51-resurs-dlya-nachinayushhih-i-professionalnyih-android-razrabotchikov.html
 
 Задачи перед собеседованием: https://www.codewars.com/
+
